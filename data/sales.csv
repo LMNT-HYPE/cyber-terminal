@@ -1,0 +1,13 @@
+OrderDate,Region,Product,Units,UnitPrice
+2025-01-05,North,Alpha,12,49.99
+2025-01-12,South,Beta,8,79.50
+2025-01-19,East,Gamma,15,29.99
+2025-02-03,West,Alpha,10,49.99
+2025-02-14,North,Beta,6,79.50
+2025-02-21,South,Gamma,20,29.99
+2025-03-02,East,Alpha,14,49.99
+2025-03-11,West,Beta,9,79.50
+2025-03-24,North,Gamma,18,29.99
+2025-04-04,South,Alpha,11,49.99
+2025-04-17,East,Beta,7,79.50
+2025-04-28,West,Gamma,16,29.99
