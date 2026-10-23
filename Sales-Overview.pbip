@@ -2,9 +2,9 @@
   "version": "1.0",
   "artifacts": [
     {
-      "artifactId": "sales-overview-report",
-      "type": "Report",
-      "path": "Sales-Overview.Report"
+      "report": {
+        "path": "Sales-Overview.Report"
+      }
     }
   ],
   "settings": {
